@@ -1,0 +1,20 @@
+# Documenting LinkedIn's Dark Patterns
+
+
+- LinkedIn forciy logs you in via Google even aftee you logged out
+- LinkedIn uses hostile engagement tactics like puzzle games, news, news feed, people you may know, and tries to force you to post because it apparently increases your chances of getting a job
+- LinkedIn dominates the job network space with network effects. There is no good alternative, yet it's awful. This must be rectified.
+- LinkedIn does not have transparent control over notifications. Even if you turn off all notifications, they will send you more ones.
+
+
+
+# And hopefully, holding people accountable for doing this
+
+- who made these business decisions?
+- what legal grounds are there for consequences?
+
+# Other ways to undermine LinkedIn
+
+- boycott
+- share information about how poorly they respect user rights
+- use alternativr platforms
