@@ -1,5 +1,13 @@
-# Documenting LinkedIn's Dark Patterns
 
+
+
+
+# LinkedIn's Dark Patterns
+
+The term “dark patterns” was coined by Harry Brignull, who discusses it in his article “Dark Patterns: Deception vs. Honesty in UI Design” (Brignull, 2011; https://alistapart.com/article/dark-patterns-deception-vs-honesty-in-ui-design/).
+
+
+## Documentation (ie video screen grabs)
 
 - LinkedIn forciy logs you in via Google even aftee you logged out
 - LinkedIn uses hostile engagement tactics like puzzle games, news, news feed, people you may know, and tries to force you to post because it apparently increases your chances of getting a job
