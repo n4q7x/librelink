@@ -6,6 +6,11 @@
 
 The term “dark patterns” was coined by UX designer Harry Brignull in 2010, when he launched the site [darkpatterns.org](https://www.deceptive.design/) to catalogue deceptive interface designs. He later expanded on this concept in his article “Dark Patterns: Deception vs. Honesty in UI Design” (Brignull, 2011, A List Apart, https://alistapart.com/article/dark-patterns-deception-vs-honesty-in-ui-design/). He defined dark patterns as “tricks used in websites and apps that make you do things that you didn’t mean to, like buying or signing up for something” (Brignull, 2010, https://www.deceptive.design/). The term quickly caught hold with UX designers, regulators, and researchers, as more people began to document how major platforms and e-commerce sites used dark patterns such as misleading opt-outs, pre-checked boxes, and confusing subscription or privacy settings.
 
+But dark patterns are arguably much broader than simply being misleading. Any aspect of user interaction design that is malicious can be considered a dark pattern: interfaces which hijack information, try to coerce behavior, a lack of transparent intentions, trying to use users for other ends, not prioritizing user well being including emotional and psychological well being, exploitative tactics to increase spending, and so on.
+
+Of course, the inventors of a whole cadre of modern dark patterns - perhaps the initiator of the very idea of an entire software business model based on dark patterns - was Facebook. Since then, 2 websites we have seen borrow their engagement hacking techniques have especially been Quora and LinkedIn. 
+
+
 
 ## Documentation (ie video screen grabs)
 
