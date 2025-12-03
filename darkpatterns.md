@@ -1,5 +1,6 @@
 
 
+# LinkedIn's Dark Patterns
 
 The term “dark patterns” was coined by UX designer Harry Brignull in 2010, when he launched [darkpatterns.org](https://www.deceptive.design/) (originally darkpatterns.org), a site meant to “name and shame” deceptive user-interface patterns. He later elaborated the idea in his article “Dark Patterns: Deception vs. Honesty in UI Design” in *A List Apart* ([original](https://alistapart.com/article/dark-patterns-deception-vs-honesty-in-ui-design/) · [archived](https://perma.cc/7XBV-LYSX)). Brignull defined a dark pattern as “a user interface that has been carefully crafted to trick users into doing things they didn’t mean to, like buying or signing up for something,” a formulation he continues to use on [deceptive.design](https://www.deceptive.design/what-are-dark-patterns) and in his 2023 book *Deceptive Patterns*.
 
