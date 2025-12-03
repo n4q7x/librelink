@@ -4,7 +4,7 @@
 
 # LinkedIn's Dark Patterns
 
-The term “dark patterns” was coined by Harry Brignull, who discusses it in his article “Dark Patterns: Deception vs. Honesty in UI Design” (Brignull, 2011; https://alistapart.com/article/dark-patterns-deception-vs-honesty-in-ui-design/).
+The term “dark patterns” was coined by UX designer Harry Brignull in 2010, when he launched the site [darkpatterns.org](https://www.deceptive.design/) to catalogue deceptive interface designs, and he later discusses it in his article “Dark Patterns: Deception vs. Honesty in UI Design” (Brignull, 2011, A List Apart, https://alistapart.com/article/dark-patterns-deception-vs-honesty-in-ui-design/). He defined dark patterns as “tricks used in websites and apps that make you do things that you didn’t mean to, like buying or signing up for something” (Brignull, 2010, https://www.deceptive.design/). The term quickly caught hold with UX designers, regulators, and researchers, as more people began to document how major platforms and e-commerce sites used dark patterns such as misleading opt-outs, pre-checked boxes, and confusing subscription or privacy settings.
 
 
 ## Documentation (ie video screen grabs)
